@@ -1,7 +1,11 @@
+# Project GLYAgency
 
-# GLI Agency
+The project represents implementation of the Web site of agency for real estate.
+It provides benefits to site visitors, i.e. potential clients, to search for real estate by different parameters,
+have access to every important detail of characteristics of real estates,
+making an appointment for an overview of real estate online, chat with available agents, etc.
+Visitors also have possibilities to give an offer for selling or renting their real estate by application for cooperation with the agency.
 
-Projekat predstavlja implementaciju Veb sajta agencije za nekretnine koja posetiocima sajta, tj. potencijalnim klijentima agencije nudi niz pogodnosti poput pretrage po različitim parametrima, uvid u sve znacajne karakteristike nekretnine,  online zakazivanja gledanja nekretnine, chat sa dostupnim agentima i drugo. Takođe,  posetioci imaju mogućnost prodaje ili iznajmljivanja svoje nekretnine podnošenjem zahteva za saradnju sa agencijom.
 
 ## How to run project
 
@@ -27,7 +31,6 @@ Projekat predstavlja implementaciju Veb sajta agencije za nekretnine koja poseti
 
 ## Developers
 
-- Goran Milenković
-- Ivona Milutinović
-- Lazar Mladenović
-
+- [Ivona Milutinović](https://github.com/ivonamilutinovic)
+- [Goran Milenković](https://github.com/goran-milenkovic)
+- [Lazar Mladenović](https://github.com/LMladenovic)
